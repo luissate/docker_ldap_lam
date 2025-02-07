@@ -1,0 +1,5 @@
+# organisational unit for IT department
+dn: ou=IT,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: IT
